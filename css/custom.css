@@ -1,0 +1,12 @@
+.pre-loads-messages{
+    height: 400px;
+    width: 100%;
+    margin: 50px auto;
+    z-index: 1000;
+}
+
+.preloader{
+  background-color: black;
+}
+
+/** ADD YOUR AWESOME CODES HERE **/
